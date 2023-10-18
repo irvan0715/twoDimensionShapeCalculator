@@ -1,0 +1,14 @@
+C:\Users\LABKOM\Documents\C#\twoDimension\twoDImensionalCalculator\bin\Debug\net7.0\twoDImensionalCalculator.exe
+C:\Users\LABKOM\Documents\C#\twoDimension\twoDImensionalCalculator\bin\Debug\net7.0\twoDImensionalCalculator.deps.json
+C:\Users\LABKOM\Documents\C#\twoDimension\twoDImensionalCalculator\bin\Debug\net7.0\twoDImensionalCalculator.runtimeconfig.json
+C:\Users\LABKOM\Documents\C#\twoDimension\twoDImensionalCalculator\bin\Debug\net7.0\twoDImensionalCalculator.dll
+C:\Users\LABKOM\Documents\C#\twoDimension\twoDImensionalCalculator\bin\Debug\net7.0\twoDImensionalCalculator.pdb
+C:\Users\LABKOM\Documents\C#\twoDimension\twoDImensionalCalculator\obj\Debug\net7.0\twoDImensionalCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABKOM\Documents\C#\twoDimension\twoDImensionalCalculator\obj\Debug\net7.0\twoDImensionalCalculator.AssemblyInfoInputs.cache
+C:\Users\LABKOM\Documents\C#\twoDimension\twoDImensionalCalculator\obj\Debug\net7.0\twoDImensionalCalculator.AssemblyInfo.cs
+C:\Users\LABKOM\Documents\C#\twoDimension\twoDImensionalCalculator\obj\Debug\net7.0\twoDImensionalCalculator.csproj.CoreCompileInputs.cache
+C:\Users\LABKOM\Documents\C#\twoDimension\twoDImensionalCalculator\obj\Debug\net7.0\twoDImensionalCalculator.dll
+C:\Users\LABKOM\Documents\C#\twoDimension\twoDImensionalCalculator\obj\Debug\net7.0\refint\twoDImensionalCalculator.dll
+C:\Users\LABKOM\Documents\C#\twoDimension\twoDImensionalCalculator\obj\Debug\net7.0\twoDImensionalCalculator.pdb
+C:\Users\LABKOM\Documents\C#\twoDimension\twoDImensionalCalculator\obj\Debug\net7.0\twoDImensionalCalculator.genruntimeconfig.cache
+C:\Users\LABKOM\Documents\C#\twoDimension\twoDImensionalCalculator\obj\Debug\net7.0\ref\twoDImensionalCalculator.dll
